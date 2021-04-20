@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Items_with_name">Items with name sorted by listId and name</string>
+    <string name="Items_without_name">Items with no name sorted by listId</string>
+</resources>
